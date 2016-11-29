@@ -1,0 +1,28 @@
+"_EMAIL_SITEPAGEADMINCONTACT_CONTACTS_EMAIL_NOTIFICATION_TITLE";"Contact Sayfa
+Owners Email Notification"
+"_EMAIL_SITEPAGEADMINCONTACT_CONTACTS_EMAIL_NOTIFICATION_DESCRIPTION";"This
+email is sent to Sayfa Admins when Site Admin contact them through emails or
+messages."
+"_EMAIL_SITEPAGEADMINCONTACT_CONTACTS_EMAIL_NOTIFICATION_SUBJECT";"[subject]"
+"_EMAIL_SITEPAGEADMINCONTACT_CONTACTS_EMAIL_NOTIFICATION_BODY";"
+[template_header]
+[header]
+
+[message]
+
+[footer]
+[template_footer]"
+"Status";"Status"
+"Hold down the CTRL key to select or de-select specific Page Status for which Admins of corresponding Pages need to be sent emails.";"Hold down the CTRL key to select or de-select specific Sayfa Status for which Admins of corresponding Sayfalar need to be sent emails."
+"All Pages";"All Sayfalar"
+"Draft Pages";"Draft Sayfalar"
+"Published Pages";"Published Sayfalar"
+"Open Pages";"Open Sayfalar"
+"Closed Pages";"Closed Sayfalar"
+"Featured Pages";"Featured Sayfalar"
+"Sponsored Pages";"Sponsored Sayfalar"
+"Approved Pages";"Approved Sayfalar"
+"Dis-approved Pages";"Dis-approved Sayfalar"
+"Running Pages";"Running Sayfalar"
+"Expired Pages";"Expired Sayfalar"
+"Hold down the CTRL key to select or de-select specific Page Status for which Admins of corresponding Pages need to be sent messages.";"Hold down the CTRL key to select or de-select specific Sayfa Status for which Admins of corresponding Sayfalar need to be sent messages."
