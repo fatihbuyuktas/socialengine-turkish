@@ -1,4 +1,4 @@
-# socialengine-turkish
+# socialengine-turkish, social engine Türkçe
 Socialengine.com sosyal ağ yazılımı Türkçe dil dosyaları.
 4.8.9 versiyonu Yönetici ve Üye ekranları ve aşağıda yer alan modüllerin büyük kısmı Türkçe'leştirilmiştir.
 - Socialengine Core
